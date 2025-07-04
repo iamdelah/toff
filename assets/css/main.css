@@ -19,7 +19,7 @@ section, summary, time, mark, audio, video {
   margin: 0;
   padding: 0;
   border: 0;
-  font-size: 100%;
+  font-size: 60%;
   font: inherit;
   vertical-align: baseline; }
 
@@ -357,7 +357,7 @@ section.special, article.special {
 header p {
   color: rgba(255, 255, 255, 0.5);
   position: relative;
-  margin: 0 0 1.5em 0; }
+  margin: 0 0 0.5em 0; }
 
 header h2 + p {
   font-size: 1.25em;
